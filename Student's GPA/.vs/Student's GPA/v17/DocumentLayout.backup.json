@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\solving_programming_problems\\Answer\\SourceC#\\Student\u0027s GPA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54D98351-AC86-4041-AABA-9CC6C975CDB5}|Student\u0027s GPA\\Student\u0027s GPA.csproj|f:\\solving_programming_problems\\answer\\sourcec#\\student\u0027s gpa\\student\u0027s gpa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D98351-AC86-4041-AABA-9CC6C975CDB5}|Student\u0027s GPA\\Student\u0027s GPA.csproj|solutionrelative:student\u0027s gpa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\solving_programming_problems\\Answer\\SourceC#\\Student\u0027s GPA\\Student\u0027s GPA\\Program.cs",
+              "RelativeDocumentMoniker": "Student\u0027s GPA\\Program.cs",
+              "ToolTip": "F:\\solving_programming_problems\\Answer\\SourceC#\\Student\u0027s GPA\\Student\u0027s GPA\\Program.cs",
+              "RelativeToolTip": "Student\u0027s GPA\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:42:54.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+F:\solving_programming_problems\Answer\SourceC#\LinearEquationSolver\LinearEquationSolver\bin\Debug\net8.0\LinearEquationSolver.exe
+F:\solving_programming_problems\Answer\SourceC#\LinearEquationSolver\LinearEquationSolver\bin\Debug\net8.0\LinearEquationSolver.deps.json
+F:\solving_programming_problems\Answer\SourceC#\LinearEquationSolver\LinearEquationSolver\bin\Debug\net8.0\LinearEquationSolver.runtimeconfig.json
+F:\solving_programming_problems\Answer\SourceC#\LinearEquationSolver\LinearEquationSolver\bin\Debug\net8.0\LinearEquationSolver.dll
+F:\solving_programming_problems\Answer\SourceC#\LinearEquationSolver\LinearEquationSolver\bin\Debug\net8.0\LinearEquationSolver.pdb
+F:\solving_programming_problems\Answer\SourceC#\LinearEquationSolver\LinearEquationSolver\obj\Debug\net8.0\LinearEquationSolver.GeneratedMSBuildEditorConfig.editorconfig
+F:\solving_programming_problems\Answer\SourceC#\LinearEquationSolver\LinearEquationSolver\obj\Debug\net8.0\LinearEquationSolver.AssemblyInfoInputs.cache
+F:\solving_programming_problems\Answer\SourceC#\LinearEquationSolver\LinearEquationSolver\obj\Debug\net8.0\LinearEquationSolver.AssemblyInfo.cs
+F:\solving_programming_problems\Answer\SourceC#\LinearEquationSolver\LinearEquationSolver\obj\Debug\net8.0\LinearEquationSolver.csproj.CoreCompileInputs.cache
+F:\solving_programming_problems\Answer\SourceC#\LinearEquationSolver\LinearEquationSolver\obj\Debug\net8.0\LinearEquationSolver.dll
+F:\solving_programming_problems\Answer\SourceC#\LinearEquationSolver\LinearEquationSolver\obj\Debug\net8.0\refint\LinearEquationSolver.dll
+F:\solving_programming_problems\Answer\SourceC#\LinearEquationSolver\LinearEquationSolver\obj\Debug\net8.0\LinearEquationSolver.pdb
+F:\solving_programming_problems\Answer\SourceC#\LinearEquationSolver\LinearEquationSolver\obj\Debug\net8.0\LinearEquationSolver.genruntimeconfig.cache
+F:\solving_programming_problems\Answer\SourceC#\LinearEquationSolver\LinearEquationSolver\obj\Debug\net8.0\ref\LinearEquationSolver.dll

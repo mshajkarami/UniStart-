@@ -1,0 +1,14 @@
+C:\Users\saleh\source\repos\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\net8.0\QuadraticEquationSolver.exe
+C:\Users\saleh\source\repos\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\net8.0\QuadraticEquationSolver.deps.json
+C:\Users\saleh\source\repos\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\net8.0\QuadraticEquationSolver.runtimeconfig.json
+C:\Users\saleh\source\repos\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\net8.0\QuadraticEquationSolver.dll
+C:\Users\saleh\source\repos\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\net8.0\QuadraticEquationSolver.pdb
+C:\Users\saleh\source\repos\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net8.0\QuadraticEquationSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saleh\source\repos\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net8.0\QuadraticEquationSolver.AssemblyInfoInputs.cache
+C:\Users\saleh\source\repos\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net8.0\QuadraticEquationSolver.AssemblyInfo.cs
+C:\Users\saleh\source\repos\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net8.0\QuadraticEquationSolver.csproj.CoreCompileInputs.cache
+C:\Users\saleh\source\repos\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net8.0\QuadraticEquationSolver.dll
+C:\Users\saleh\source\repos\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net8.0\refint\QuadraticEquationSolver.dll
+C:\Users\saleh\source\repos\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net8.0\QuadraticEquationSolver.pdb
+C:\Users\saleh\source\repos\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net8.0\QuadraticEquationSolver.genruntimeconfig.cache
+C:\Users\saleh\source\repos\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net8.0\ref\QuadraticEquationSolver.dll

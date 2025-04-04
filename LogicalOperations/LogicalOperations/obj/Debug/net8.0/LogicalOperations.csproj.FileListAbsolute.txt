@@ -1,0 +1,14 @@
+F:\solving_programming_problems\Answer\SourceC#\LogicalOperations\LogicalOperations\bin\Debug\net8.0\LogicalOperations.exe
+F:\solving_programming_problems\Answer\SourceC#\LogicalOperations\LogicalOperations\bin\Debug\net8.0\LogicalOperations.deps.json
+F:\solving_programming_problems\Answer\SourceC#\LogicalOperations\LogicalOperations\bin\Debug\net8.0\LogicalOperations.runtimeconfig.json
+F:\solving_programming_problems\Answer\SourceC#\LogicalOperations\LogicalOperations\bin\Debug\net8.0\LogicalOperations.dll
+F:\solving_programming_problems\Answer\SourceC#\LogicalOperations\LogicalOperations\bin\Debug\net8.0\LogicalOperations.pdb
+F:\solving_programming_problems\Answer\SourceC#\LogicalOperations\LogicalOperations\obj\Debug\net8.0\LogicalOperations.GeneratedMSBuildEditorConfig.editorconfig
+F:\solving_programming_problems\Answer\SourceC#\LogicalOperations\LogicalOperations\obj\Debug\net8.0\LogicalOperations.AssemblyInfoInputs.cache
+F:\solving_programming_problems\Answer\SourceC#\LogicalOperations\LogicalOperations\obj\Debug\net8.0\LogicalOperations.AssemblyInfo.cs
+F:\solving_programming_problems\Answer\SourceC#\LogicalOperations\LogicalOperations\obj\Debug\net8.0\LogicalOperations.csproj.CoreCompileInputs.cache
+F:\solving_programming_problems\Answer\SourceC#\LogicalOperations\LogicalOperations\obj\Debug\net8.0\LogicalOperations.dll
+F:\solving_programming_problems\Answer\SourceC#\LogicalOperations\LogicalOperations\obj\Debug\net8.0\refint\LogicalOperations.dll
+F:\solving_programming_problems\Answer\SourceC#\LogicalOperations\LogicalOperations\obj\Debug\net8.0\LogicalOperations.pdb
+F:\solving_programming_problems\Answer\SourceC#\LogicalOperations\LogicalOperations\obj\Debug\net8.0\LogicalOperations.genruntimeconfig.cache
+F:\solving_programming_problems\Answer\SourceC#\LogicalOperations\LogicalOperations\obj\Debug\net8.0\ref\LogicalOperations.dll
